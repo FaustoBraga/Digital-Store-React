@@ -102,7 +102,7 @@ header .cart{
     visibility: hidden;
     transition-duration: 300ms;
 }
-header .cart .active{
+header .cart.active{
     opacity: 1;
     visibility: visible;
 }
